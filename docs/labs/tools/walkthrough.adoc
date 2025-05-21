@@ -41,6 +41,8 @@ endif::[]
 [id='lab-intro']
 = LLM tools
 
+テストだよ
+
 Gain familiarity with LLM tools by learning how to easily create them with Apache Camel. In this lab, you'll create an agent that uses live feeds to assist clients. 
 
 This hands-on lab is based on the following article in _Red Hat Developers_:
