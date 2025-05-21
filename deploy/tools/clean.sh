@@ -1,0 +1,1 @@
+oc get svc,deployment,pvc -o name | grep llm | xargs oc delete
